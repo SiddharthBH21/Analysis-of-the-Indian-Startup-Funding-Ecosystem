@@ -23,9 +23,4 @@ When we continue analysis the descriptive statistics by reviewing the difference
 
 As the conclusion, acquisitions of companies like Duroflex show that PE funds are increasingly trying to find opportunities of arbitrage in India.
 
-In conclusion, we recommend Harold to consider employing Analysts and Experts to explore upcoming companies in Bangalore, the National Capital Region (Delhi), and Mumbai. These companies can be within the industry verticals of Consumer Internet, eCommerce, and Technology. The most sought after companies are fast growing and maturing companies in the seed funding and private equity stage. To visualize this further, the team created a public tableau dashboard.
-
-Public Tableau Dashboard
-Tableau Dashboard - Indian Startup Funding
-
-image.png
+In conclusion, we recommend Harold to consider employing Analysts and Experts to explore upcoming companies in Bangalore, the National Capital Region (Delhi), and Mumbai. These companies can be within the industry verticals of Consumer Internet, eCommerce, and Technology. The most sought after companies are fast growing and maturing companies in the seed funding and private equity stage. 
